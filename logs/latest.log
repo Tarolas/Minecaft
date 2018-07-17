@@ -1,85 +1,565 @@
-[19:25:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[19:25:41] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[19:25:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[19:25:41] [main/INFO] [FML]: Forge Mod Loader version 14.23.4.2738 for Minecraft 1.12.2 loading
-[19:25:41] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_171, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_171
-[19:25:41] [main/INFO] [FML]: Searching C:\Users\User\Documents\GitHub\Minecraft\.\mods for mods
-[19:25:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[19:25:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[19:25:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[19:25:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[19:25:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[19:25:42] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[19:25:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[19:25:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[19:25:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[19:25:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[19:25:43] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[19:25:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[19:25:46] [Server thread/INFO] [FML]: MinecraftForge v14.23.4.2738 Initialized
-[19:25:46] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[19:25:46] [Server thread/INFO] [FML]: Replaced 1036 ore ingredients
-[19:25:46] [Server thread/INFO] [FML]: Config directory created successfully
-[19:25:47] [Server thread/INFO] [FML]: Searching C:\Users\User\Documents\GitHub\Minecraft\.\mods for mods
-[19:25:47] [Server thread/INFO] [FML]: Forge Mod Loader has identified 4 mods to load
-[19:25:47] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[19:25:47] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
-[19:25:47] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
-[19:25:48] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[19:25:48] [Server thread/INFO] [FML]: Found 1169 ObjectHolder annotations
-[19:25:48] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[19:25:48] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[19:25:48] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[19:25:48] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[19:25:48] [Server thread/INFO] [FML]: Applying holder lookups
-[19:25:48] [Server thread/INFO] [FML]: Holder lookups applied
-[19:25:48] [Server thread/INFO] [FML]: Applying holder lookups
-[19:25:48] [Server thread/INFO] [FML]: Holder lookups applied
-[19:25:48] [Server thread/INFO] [FML]: Applying holder lookups
-[19:25:48] [Server thread/INFO] [FML]: Holder lookups applied
-[19:25:48] [Server thread/INFO] [FML]: Applying holder lookups
-[19:25:48] [Server thread/INFO] [FML]: Holder lookups applied
-[19:25:48] [Server thread/INFO] [FML]: Injecting itemstacks
-[19:25:48] [Server thread/INFO] [FML]: Itemstack injection complete
-[19:25:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[19:25:48] [Server thread/WARN] [net.minecraft.server.dedicated.PropertyManager]: server.properties does not exist
-[19:25:48] [Server thread/INFO] [net.minecraft.server.dedicated.PropertyManager]: Generating new properties file
-[19:25:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[19:25:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[19:25:48] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[19:25:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[19:25:48] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
-[19:25:49] [Server thread/INFO] [FML]: Applying holder lookups
-[19:25:49] [Server thread/INFO] [FML]: Holder lookups applied
-[19:25:49] [Server thread/INFO] [FML]: Injecting itemstacks
-[19:25:49] [Server thread/INFO] [FML]: Itemstack injection complete
-[19:25:49] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 4 mods
-[19:25:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[19:25:49] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@2e94730c)
-[19:25:50] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
-[19:25:50] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2e94730c)
-[19:25:50] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@2e94730c)
-[19:25:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[19:25:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 8%
-[19:25:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 13%
-[19:25:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 19%
-[19:25:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 26%
-[19:25:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 32%
-[19:25:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 41%
-[19:25:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 53%
-[19:25:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 60%
-[19:26:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 66%
-[19:26:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 73%
-[19:26:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 81%
-[19:26:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 91%
-[19:26:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (14,188s)! For help, type "help" or "?"
-[19:26:03] [Server thread/INFO] [FML]: Unloading dimension -1
-[19:26:03] [Server thread/INFO] [FML]: Unloading dimension 1
-[19:26:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[19:26:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[19:26:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[19:26:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[19:26:08] [Server thread/INFO] [FML]: Unloading dimension 0
-[19:26:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[19:26:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[19:26:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[19:28:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:28:30] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:28:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:28:30] [main/INFO] [FML]: Forge Mod Loader version 14.23.4.2738 for Minecraft 1.12.2 loading
+[19:28:30] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_171, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_171
+[19:28:31] [main/INFO] [FML]: Searching C:\Users\User\Documents\GitHub\Minecraft\.\mods for mods
+[19:28:31] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in cxlibrary-1.12.1-1.6.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:28:31] [main/WARN] [FML]: The coremod cubex2.cxlibrary.CoreModLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:28:31] [main/WARN] [FML]: The coremod CXLibraryCore (cubex2.cxlibrary.CoreModLoader) is not signed!
+[19:28:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:28:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:28:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:28:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:28:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:28:32] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[19:28:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:28:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:28:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:28:32] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:28:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:28:33] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[19:28:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[19:28:36] [Server thread/INFO] [FML]: MinecraftForge v14.23.4.2738 Initialized
+[19:28:36] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[19:28:36] [Server thread/INFO] [FML]: Replaced 1036 ore ingredients
+[19:28:36] [Server thread/INFO] [FML]: Searching C:\Users\User\Documents\GitHub\Minecraft\.\mods for mods
+[19:28:37] [Server thread/WARN] [FML]: Mod betterbuilderswands is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.11.1
+[19:28:37] [Server thread/WARN] [FML]: Mod codechickenlib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.2.0.345
+[19:28:37] [Server thread/WARN] [FML]: Mod enderstorage is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.4.4.132
+[19:28:37] [Server thread/WARN] [FML]: Mod engineersworkshop is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.4.0-1.12.2
+[19:28:37] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.40.824
+[19:28:37] [Server thread/INFO] [FML]: Disabling mod jeresources it is client side only.
+[19:28:38] [Server thread/ERROR] [FML]: The mcmod.info file in practicallogistics2-1.12.2-3.0.4.jar cannot be parsed as valid JSON. It will be ignored
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Expected name at line 12 column 2 path $[0].logoFile
+	at com.google.gson.internal.Streams.parse(Streams.java:60) ~[Streams.class:?]
+	at com.google.gson.JsonParser.parse(JsonParser.java:84) ~[JsonParser.class:?]
+	at com.google.gson.JsonParser.parse(JsonParser.java:59) ~[JsonParser.class:?]
+	at net.minecraftforge.fml.common.MetadataCollection.from(MetadataCollection.java:63) [MetadataCollection.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:65) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:425) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:566) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:332) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_171]
+Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 12 column 2 path $[0].logoFile
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559) ~[JsonReader.class:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:505) ~[JsonReader.class:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:414) ~[JsonReader.class:?]
+	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:738) ~[TypeAdapters$29.class:?]
+	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:731) ~[TypeAdapters$29.class:?]
+	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:714) ~[TypeAdapters$29.class:?]
+	at com.google.gson.internal.Streams.parse(Streams.java:48) ~[Streams.class:?]
+	... 14 more
+[19:28:38] [Server thread/INFO] [FML]: Forge Mod Loader has identified 40 mods to load
+[19:28:38] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[19:28:38] [Server thread/WARN] [FML]: Missing English translation for bibliotheca: assets/bibliotheca/lang/en_us.lang
+[19:28:38] [Server thread/WARN] [FML]: Missing English translation for chameleon: assets/chameleon/lang/en_us.lang
+[19:28:38] [Server thread/WARN] [FML]: Missing English translation for codechickenlib: assets/codechickenlib/lang/en_us.lang
+[19:28:38] [Server thread/WARN] [FML]: Missing English translation for cxlibrary: assets/cxlibrary/lang/en_us.lang
+[19:28:38] [Server thread/WARN] [FML]: Missing English translation for epicsiegemod: assets/epicsiegemod/lang/en_us.lang
+[19:28:38] [Server thread/WARN] [FML]: Missing English translation for flatbedrockx: assets/flatbedrockx/lang/en_us.lang
+[19:28:38] [Server thread/WARN] [FML]: Missing English translation for mcjtylib_ng: assets/mcjtylib_ng/lang/en_us.lang
+[19:28:38] [Server thread/WARN] [FML]: Missing English translation for mcmultipart: assets/mcmultipart/lang/en_us.lang
+[19:28:38] [Server thread/WARN] [FML]: Missing English translation for orespawn: assets/orespawn/lang/en_us.lang
+[19:28:38] [Server thread/INFO] [FML]: FML has found a non-mod file JustEnoughResources-1.12.2-0.8.8.47.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[19:28:39] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, bdlib, betterbuilderswands, bibliotheca, chameleon, chisel, codechickenlib, compacter, cucumber, cxlibrary, enderstorage, engineersworkshop, epicsiegemod, exnihilocreatio, flatbedrockx, fluxnetworks, gravestone, hopperducts, ironchest, iskalliumreactors, jei, journeymap, mcjtylib_ng, mcmultipart, meecreeps, morefurnaces, mysticalagriculture, orespawn, practicallogistics2, scalinghealth, silentlib, lteleporters, sonarcore, storagedrawers, torchmaster, uppers, wearablebackpacks] at CLIENT
+[19:28:39] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, bdlib, betterbuilderswands, bibliotheca, chameleon, chisel, codechickenlib, compacter, cucumber, cxlibrary, enderstorage, engineersworkshop, epicsiegemod, exnihilocreatio, flatbedrockx, fluxnetworks, gravestone, hopperducts, ironchest, iskalliumreactors, jei, journeymap, mcjtylib_ng, mcmultipart, meecreeps, morefurnaces, mysticalagriculture, orespawn, practicallogistics2, scalinghealth, silentlib, lteleporters, sonarcore, storagedrawers, torchmaster, uppers, wearablebackpacks] at SERVER
+[19:28:43] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[19:28:43] [Server thread/INFO] [FML]: Found 1324 ObjectHolder annotations
+[19:28:43] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[19:28:43] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[19:28:44] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[19:28:44] [Forge Version Check/INFO] [forge.VersionCheck]: [codechickenlib] Starting version check at http://chickenbones.net/Files/notification/version.php?query=forge&version=1.12&file=CodeChickenLib
+[19:28:44] [Server thread/INFO] [bdlib]: bdlib 1.14.3.12 loaded
+[19:28:44] [Forge Version Check/INFO] [forge.VersionCheck]: [codechickenlib] Found status: BETA Target: null
+[19:28:44] [Forge Version Check/INFO] [forge.VersionCheck]: [enderstorage] Starting version check at http://chickenbones.net/Files/notification/version.php?query=forge&version=1.12&file=EnderStorage
+[19:28:44] [Forge Version Check/INFO] [forge.VersionCheck]: [enderstorage] Found status: BETA Target: null
+[19:28:44] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[19:28:44] [Server thread/INFO] [bdlib]: Initialized network channel 'bdew.multiblock' for mod 'bdlib'
+[19:28:44] [Server thread/INFO] [betterbuilderswands]: Access transform success createStackedBlock (func_180643_i).
+[19:28:44] [Server thread/INFO] [FML]: Applying holder lookups
+[19:28:44] [Server thread/INFO] [FML]: Holder lookups applied
+[19:28:45] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[19:28:45] [Forge Version Check/INFO] [forge.VersionCheck]: [gravestone] Starting version check at http://maxhenkel.de/update/gravestone.json
+[19:28:45] [Server thread/INFO] [bdlib]: Loading internal config files for mod Compacter
+[19:28:45] [Server thread/INFO] [bdlib]: Loading config: jar:file:/C:/Users/User/Documents/GitHub/Minecraft/./mods/compacter-1.3.0.3-mc1.12.2.jar!/assets/compacter/config/recipes.cfg
+[19:28:45] [Server thread/INFO] [bdlib]: Loading user config files for mod Compacter
+[19:28:45] [Server thread/INFO] [bdlib]: Config loading for mod Compacter finished
+[19:28:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ender chest`, expected `enderstorage`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ender tank`, expected `enderstorage`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:46] [Server thread/INFO] [Bibliotheca]: [BLOCK]: blocktable has been registered by Bibliotheca for the mod engineersworkshop
+[19:28:46] [Server thread/INFO] [Bibliotheca]: [ITEM]: upgrade has been registered by Bibliotheca for the mod engineersworkshop
+[19:28:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tiletable`, expected `engineersworkshop`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:46] [Server thread/INFO] [Bibliotheca]: [TILE ENTITY]: TileTable has been registered by Bibliotheca
+[19:28:46] [Forge Version Check/INFO] [forge.VersionCheck]: [gravestone] Found status: UP_TO_DATE Target: null
+[19:28:46] [Server thread/INFO] [sonarcore]: Initialising API
+[19:28:46] [Server thread/INFO] [sonarcore]: Initialised API
+[19:28:46] [Server thread/INFO] [sonarcore]: Registering Blocks
+[19:28:46] [Server thread/INFO] [sonarcore]: Loaded Blocks
+[19:28:46] [Server thread/INFO] [sonarcore]: Registering Crafting Recipes
+[19:28:46] [Server thread/INFO] [sonarcore]: Register Crafting Recipes
+[19:28:46] [Server thread/INFO] [sonarcore]: ITileEnergyHandler loaded successfully: sonar.core.handlers.energy.tiles.TileHandlerForge
+[19:28:46] [Server thread/INFO] [sonarcore]: Couldn't load ITileEnergyHandler sonar.core.handlers.energy.tiles.TileHandlerTesla for modid tesla
+[19:28:46] [Server thread/INFO] [sonarcore]: Couldn't load ITileEnergyHandler sonar.core.handlers.energy.tiles.TileHandlerRedstoneFlux for modid redstoneflux
+[19:28:46] [Server thread/INFO] [sonarcore]: Couldn't load ITileEnergyHandler sonar.core.handlers.energy.tiles.TileHandlerEnergyUnits for modid ic2
+[19:28:46] [Server thread/INFO] [sonarcore]: Couldn't load ITileEnergyHandler sonar.core.handlers.energy.tiles.TileHandlerAppliedEnergistics for modid appliedenergistics2
+[19:28:46] [Server thread/INFO] [sonarcore]: Couldn't load ITileEnergyHandler sonar.core.handlers.energy.tiles.TileHandlerMekanism for modid mekanism
+[19:28:46] [Server thread/INFO] [sonarcore]: Couldn't load ISonarFluidHandler sonar.core.handlers.fluids.tiles.DeepResonanceTank for modid deepresonance
+[19:28:46] [Server thread/INFO] [sonarcore]: ISonarFluidHandler loaded successfully: sonar.core.handlers.fluids.tiles.FluidCapabilityHandler
+[19:28:46] [Server thread/INFO] [sonarcore]: Couldn't load ISonarFluidHandler sonar.core.handlers.fluids.tiles.RefinedStorageHandler for modid refinedstorage
+[19:28:46] [Server thread/INFO] [sonarcore]: Couldn't load ISonarFluidHandler sonar.core.handlers.fluids.tiles.AE2FluidHandler for modid appliedenergistics2
+[19:28:46] [Server thread/INFO] [sonarcore]: IItemEnergyHandler loaded successfully: sonar.core.handlers.energy.items.ItemHandlerForge
+[19:28:46] [Server thread/INFO] [sonarcore]: Couldn't load IItemEnergyHandler sonar.core.handlers.energy.items.ItemHandlerTesla for modid tesla
+[19:28:46] [Server thread/INFO] [sonarcore]: Couldn't load IItemEnergyHandler sonar.core.handlers.energy.items.ItemHandlerRedstoneFlux for modid redstoneflux
+[19:28:46] [Server thread/INFO] [sonarcore]: Couldn't load IItemEnergyHandler sonar.core.handlers.energy.items.ItemHandlerEnergyUnits for modid ic2
+[19:28:46] [Server thread/INFO] [sonarcore]: Couldn't load IItemEnergyHandler sonar.core.handlers.energy.items.ItemHandlerAppliedEnergistics for modid appliedenergistics2
+[19:28:46] [Server thread/INFO] [sonarcore]: Couldn't load IItemEnergyHandler sonar.core.handlers.energy.items.ItemHandlerMekanism for modid mekanism
+[19:28:46] [Server thread/INFO] [fluxnetworks]: Initialising API
+[19:28:46] [Server thread/INFO] [fluxnetworks]: Loading Config
+[19:28:46] [Server thread/INFO] [fluxnetworks]: Loading Network
+[19:28:46] [Server thread/INFO] [fluxnetworks]: Loading Blocks/Items
+[19:28:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fluxplug`, expected `fluxnetworks`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fluxpoint`, expected `fluxnetworks`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fluxcontroller`, expected `fluxnetworks`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fluxstorage`, expected `fluxnetworks`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `herculeanfluxstorage`, expected `fluxnetworks`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gargantuanfluxstorage`, expected `fluxnetworks`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:46] [Server thread/INFO] [fluxnetworks]: Loading Entities
+[19:28:46] [Server thread/INFO] [fluxnetworks]: Loading Recipes
+[19:28:46] [Server thread/INFO] [fluxnetworks]: Loading Packets
+[19:28:46] [Server thread/INFO] [fluxnetworks]: Loading Renderers
+[19:28:46] [Server thread/INFO] [fluxnetworks]: Finished Pre-Initialization
+[19:28:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ma.tinkering_table`, expected `mysticalagriculture`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:47] [Server thread/INFO] [practicallogistics2]: Releasing the Kraken
+[19:28:47] [Server thread/INFO] [practicallogistics2]: Successfully loaded with Sonar Core
+[19:28:47] [Server thread/INFO] [practicallogistics2]: Registered Network
+[19:28:47] [Server thread/INFO] [practicallogistics2]: Registered Packets
+[19:28:47] [Server thread/INFO] [practicallogistics2]: Loaded Configuration
+[19:28:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `hammer`, expected `practicallogistics2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pl2_inforeader`, expected `practicallogistics2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pl2_inventoryreader`, expected `practicallogistics2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pl2_fluidreader`, expected `practicallogistics2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pl2_energyreader`, expected `practicallogistics2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pl2_networkreader`, expected `practicallogistics2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pl2_array`, expected `practicallogistics2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pl2_entitynode`, expected `practicallogistics2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pl2_transfernode`, expected `practicallogistics2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pl2_redstonenode`, expected `practicallogistics2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pl2_clock`, expected `practicallogistics2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pl2_redstonesignaller`, expected `practicallogistics2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pl2_minidisplay`, expected `practicallogistics2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pl2_displayscreen`, expected `practicallogistics2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pl2_largedisplayscreen`, expected `practicallogistics2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pl2_holographicdisplay`, expected `practicallogistics2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pl2_advancedholographicdisplay`, expected `practicallogistics2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:48] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pl2_datacable`, expected `practicallogistics2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:48] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pl2_redstonecable`, expected `practicallogistics2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:48] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pl2_node`, expected `practicallogistics2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:48] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pl2_dataemitter`, expected `practicallogistics2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:48] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pl2_datareceiver`, expected `practicallogistics2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:48] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pl2_redstoneemitter`, expected `practicallogistics2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:48] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pl2_redstonereceiver`, expected `practicallogistics2`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:48] [Server thread/INFO] [practicallogistics2]: Loaded Blocks
+[19:28:48] [Server thread/INFO] [practicallogistics2]: Loaded Items
+[19:28:48] [Server thread/INFO] [practicallogistics2]: Registered Sapphire World Generator
+[19:28:48] [Server thread/INFO] [practicallogistics2]: IInfo loaded successfully: sonar.logistics.core.tiles.displays.info.types.general.LogicInfo
+[19:28:48] [Server thread/INFO] [practicallogistics2]: IInfo loaded successfully: sonar.logistics.core.tiles.displays.info.types.progress.InfoProgressBar
+[19:28:48] [Server thread/INFO] [practicallogistics2]: IInfo loaded successfully: sonar.logistics.core.tiles.displays.info.types.fluids.InfoNetworkFluid
+[19:28:48] [Server thread/INFO] [practicallogistics2]: IInfo loaded successfully: sonar.logistics.core.tiles.displays.info.types.energy.MonitoredEnergyStack
+[19:28:48] [Server thread/INFO] [practicallogistics2]: IInfo loaded successfully: sonar.logistics.core.tiles.displays.info.types.channels.MonitoredBlockCoords
+[19:28:48] [Server thread/INFO] [practicallogistics2]: IInfo loaded successfully: sonar.logistics.core.tiles.displays.info.types.InfoError
+[19:28:48] [Server thread/INFO] [practicallogistics2]: IInfo loaded successfully: sonar.logistics.core.tiles.displays.info.types.items.MonitoredItemStack
+[19:28:48] [Server thread/INFO] [practicallogistics2]: IInfo loaded successfully: sonar.logistics.core.tiles.displays.info.types.LogicInfoList
+[19:28:48] [Server thread/INFO] [practicallogistics2]: Couldn't load IInfo sonar.logistics.integration.ae2.AE2DriveInfo for modid appliedenergistics2
+[19:28:48] [Server thread/INFO] [practicallogistics2]: IInfo loaded successfully: sonar.logistics.core.tiles.displays.info.types.channels.MonitoredEntity
+[19:28:48] [Server thread/INFO] [practicallogistics2]: IInfo loaded successfully: sonar.logistics.core.tiles.displays.info.types.ClockInfo
+[19:28:48] [Server thread/INFO] [practicallogistics2]: Loaded: 10 Info Types
+[19:28:48] [Server thread/INFO] [practicallogistics2]: IDisplayElement loaded successfully: sonar.logistics.core.tiles.displays.info.elements.buttons.ButtonElement
+[19:28:48] [Server thread/INFO] [practicallogistics2]: IDisplayElement loaded successfully: sonar.logistics.core.tiles.displays.info.elements.ItemStackElement
+[19:28:48] [Server thread/INFO] [practicallogistics2]: IDisplayElement loaded successfully: sonar.logistics.core.tiles.displays.info.types.progress.ElementProgressBar
+[19:28:48] [Server thread/INFO] [practicallogistics2]: IDisplayElement loaded successfully: sonar.logistics.core.tiles.displays.info.elements.UnconfiguredInfoElement
+[19:28:48] [Server thread/INFO] [practicallogistics2]: IDisplayElement loaded successfully: sonar.logistics.core.tiles.displays.info.types.fluids.ElementNetworkFluid
+[19:28:48] [Server thread/INFO] [practicallogistics2]: IDisplayElement loaded successfully: sonar.logistics.core.tiles.displays.info.types.text.StyledTitleElement
+[19:28:48] [Server thread/INFO] [practicallogistics2]: IDisplayElement loaded successfully: sonar.logistics.core.tiles.displays.info.types.items.NetworkItemElement
+[19:28:48] [Server thread/INFO] [practicallogistics2]: IDisplayElement loaded successfully: sonar.logistics.core.tiles.displays.gsi.storage.DisplayElementList
+[19:28:48] [Server thread/INFO] [practicallogistics2]: IDisplayElement loaded successfully: sonar.logistics.core.tiles.displays.info.types.fluids.ElementNetworkFluidGrid
+[19:28:48] [Server thread/INFO] [practicallogistics2]: IDisplayElement loaded successfully: sonar.logistics.core.tiles.displays.info.types.items.NetworkItemGridElement
+[19:28:48] [Server thread/INFO] [practicallogistics2]: IDisplayElement loaded successfully: sonar.logistics.core.tiles.displays.info.elements.buttons.ButtonEmptyInfo
+[19:28:48] [Server thread/INFO] [practicallogistics2]: IDisplayElement loaded successfully: sonar.logistics.core.tiles.displays.info.types.text.StyledWrappedTextElement
+[19:28:48] [Server thread/INFO] [practicallogistics2]: Loaded: 12 Element Types
+[19:28:48] [Server thread/INFO] [practicallogistics2]: IDisplayAction loaded successfully: sonar.logistics.core.tiles.displays.gsi.interaction.actions.ClickHyperlink
+[19:28:48] [Server thread/INFO] [practicallogistics2]: Loaded: 1 Display Actions
+[19:28:48] [Server thread/INFO] [practicallogistics2]: IStyledString loaded successfully: sonar.logistics.core.tiles.displays.info.types.text.styling.StyledInfo
+[19:28:48] [Server thread/INFO] [practicallogistics2]: IStyledString loaded successfully: sonar.logistics.core.tiles.displays.info.types.text.styling.StyledString
+[19:28:48] [Server thread/INFO] [practicallogistics2]: Loaded: 2 Styled String Types
+[19:28:48] [Server thread/INFO] [practicallogistics2]: ILogicListSorter loaded successfully: sonar.logistics.core.tiles.readers.items.InventorySorter
+[19:28:48] [Server thread/INFO] [practicallogistics2]: ILogicListSorter loaded successfully: sonar.logistics.core.tiles.readers.fluids.FluidSorter
+[19:28:48] [Server thread/INFO] [practicallogistics2]: ILogicListSorter loaded successfully: sonar.logistics.core.tiles.readers.energy.EnergySorter
+[19:28:48] [Server thread/INFO] [practicallogistics2]: Loaded: 3 Logic List Sorter
+[19:28:48] [Server thread/INFO] [practicallogistics2]: ILogicComparator loaded successfully: sonar.logistics.base.statements.comparators.ObjectComparator
+[19:28:48] [Server thread/INFO] [practicallogistics2]: ILogicComparator loaded successfully: sonar.logistics.base.statements.comparators.BooleanComparator
+[19:28:48] [Server thread/INFO] [practicallogistics2]: ILogicComparator loaded successfully: sonar.logistics.base.statements.comparators.NumberComparator
+[19:28:48] [Server thread/INFO] [practicallogistics2]: Loaded: 3 Comparator Types
+[19:28:48] [Server thread/INFO] [practicallogistics2]: INodeFilter loaded successfully: sonar.logistics.base.filters.types.OreDictFilter
+[19:28:48] [Server thread/INFO] [practicallogistics2]: INodeFilter loaded successfully: sonar.logistics.base.filters.types.FluidFilter
+[19:28:48] [Server thread/INFO] [practicallogistics2]: INodeFilter loaded successfully: sonar.logistics.base.filters.types.ItemFilter
+[19:28:48] [Server thread/INFO] [practicallogistics2]: Loaded: 3 Filters
+[19:28:49] [Server thread/INFO] [practicallogistics2]: Couldn't load IInfoRegistry sonar.logistics.integration.calculator.CalculatorInfoRegistry for modid calculator
+[19:28:49] [Server thread/INFO] [practicallogistics2]: IInfoRegistry loaded successfully: sonar.logistics.integration.fluxnetworks.FluxNetworksRegistry
+[19:28:49] [Server thread/INFO] [practicallogistics2]: IInfoRegistry loaded successfully: sonar.logistics.integration.vanilla.VanillaInfoRegistry
+[19:28:49] [Server thread/INFO] [practicallogistics2]: Couldn't load IInfoRegistry sonar.logistics.integration.ae2.AE2Registry for modid appliedenergistics2
+[19:28:49] [Server thread/INFO] [practicallogistics2]: Couldn't load IInfoRegistry sonar.logistics.integration.enderio.EnderCoreRegistry for modid endercore
+[19:28:49] [Server thread/INFO] [practicallogistics2]: IInfoRegistry loaded successfully: sonar.logistics.integration.pl2.PL2InfoRegistry
+[19:28:49] [Server thread/INFO] [practicallogistics2]: Couldn't load ITileInfoProvider sonar.logistics.integration.ae2.AE2DriveProvider for modid appliedenergistics2
+[19:28:49] [Server thread/INFO] [practicallogistics2]: Couldn't load ITileInfoProvider sonar.logistics.integration.ae2.AE2GrinderProvider for modid appliedenergistics2
+[19:28:49] [Server thread/INFO] [practicallogistics2]: ITileInfoProvider loaded successfully: sonar.logistics.integration.vanilla.NormalFluidProvider
+[19:28:49] [Server thread/INFO] [practicallogistics2]: Couldn't load ITileInfoProvider sonar.logistics.integration.ae2.AE2CraftingProvider for modid appliedenergistics2
+[19:28:49] [Server thread/INFO] [practicallogistics2]: ITileInventoryProvider loaded successfully: sonar.logistics.base.data.generators.items.TileInventoryForge
+[19:28:49] [Server thread/INFO] [practicallogistics2]: Couldn't load ITileInventoryProvider sonar.logistics.base.data.generators.items.TileInventoryAE2 for modid appliedenergistics2
+[19:28:49] [Server thread/INFO] [practicallogistics2]: IInfoError loaded successfully: sonar.logistics.base.guidance.errors.ErrorDisconnected
+[19:28:49] [Server thread/INFO] [practicallogistics2]: IInfoError loaded successfully: sonar.logistics.base.guidance.errors.ErrorDestroyed
+[19:28:49] [Server thread/INFO] [practicallogistics2]: IInfoError loaded successfully: sonar.logistics.base.guidance.errors.ErrorUUID
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: java.lang.NoClassDefFoundError: sonar/flux/api/network/IFluxCommon
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at sonar.logistics.integration.fluxnetworks.FluxNetworksRegistry.registerBaseReturns(FluxNetworksRegistry.java:20)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at sonar.logistics.core.tiles.displays.info.MasterInfoRegistry.lambda$init$0(MasterInfoRegistry.java:81)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at java.util.ArrayList.forEach(Unknown Source)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at sonar.logistics.core.tiles.displays.info.MasterInfoRegistry.init(MasterInfoRegistry.java:79)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at sonar.logistics.PL2.preInit(PL2.java:88)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:627)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:627)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:332)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$0:83]: 	at java.lang.Thread.run(Unknown Source)
+[19:28:49] [Server thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:-1]: Caused by: java.lang.ClassNotFoundException: sonar.flux.api.network.IFluxCommon
+[19:28:49] [Server thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:-1]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+[19:28:49] [Server thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[19:28:49] [Server thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:-1]: 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[19:28:49] [Server thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:-1]: 	... 40 more
+[19:28:49] [Server thread/INFO] [STDERR]: [java.lang.Throwable:printStackTrace:-1]: Caused by: java.lang.NullPointerException
+[19:28:49] [Server thread/ERROR] [practicallogistics2]: Failed to load method: public abstract sonar.flux.api.network.IFluxNetwork sonar.flux.api.tiles.IFlux.getNetwork(), Valid Parameters: true, Valid Returns false,
+[19:28:49] [Server thread/ERROR] [practicallogistics2]: Failed to load method: public abstract sonar.core.api.utils.BlockCoords sonar.flux.api.tiles.IFlux.getCoords(), Valid Parameters: true, Valid Returns false,
+[19:28:49] [Server thread/ERROR] [practicallogistics2]: Failed to load method: public abstract sonar.flux.api.tiles.IFlux$ConnectionType sonar.flux.api.tiles.IFlux.getConnectionType(), Valid Parameters: true, Valid Returns false,
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: java.lang.NoClassDefFoundError: sonar/flux/api/network/IFluxCommon
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at sonar.logistics.integration.fluxnetworks.FluxNetworksRegistry.registerBaseMethods(FluxNetworksRegistry.java:29)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at sonar.logistics.core.tiles.displays.info.MasterInfoRegistry.lambda$init$1(MasterInfoRegistry.java:88)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at java.util.ArrayList.forEach(Unknown Source)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at sonar.logistics.core.tiles.displays.info.MasterInfoRegistry.init(MasterInfoRegistry.java:86)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at sonar.logistics.PL2.preInit(PL2.java:88)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:627)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:627)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:332)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+[19:28:49] [Server thread/INFO] [STDERR]: [sonar.logistics.core.tiles.displays.info.MasterInfoRegistry:lambda$init$1:90]: 	at java.lang.Thread.run(Unknown Source)
+[19:28:49] [Server thread/ERROR] [practicallogistics2]: Failed to load method: public int net.minecraftforge.fluids.Fluid.getDensity(net.minecraftforge.fluids.FluidStack), Valid Parameters: false, Valid Returns true,
+[19:28:49] [Server thread/INFO] [practicallogistics2]: Initialised Server Info Handler
+[19:28:49] [Server thread/INFO] [practicallogistics2]: Initialised Network Handler
+[19:28:49] [Server thread/INFO] [practicallogistics2]: Initialised Data Factory
+[19:28:49] [Server thread/INFO] [practicallogistics2]: Initialised Wireless Data Manager
+[19:28:49] [Server thread/INFO] [practicallogistics2]: Initialised Wireless Redstone Manager
+[19:28:49] [Server thread/INFO] [practicallogistics2]: Initialised Cable Connection Handler
+[19:28:49] [Server thread/INFO] [practicallogistics2]: Initialised Redstone Connection Handler
+[19:28:49] [Server thread/INFO] [practicallogistics2]: Initialised Server Display Handler
+[19:28:49] [Server thread/INFO] [practicallogistics2]: Initialised Chunk Viewer Handler
+[19:28:49] [Server thread/INFO] [practicallogistics2]: Initialised Event Handler
+[19:28:49] [Server thread/INFO] [Scaling Health]: Trying to change max health cap to 2048
+[19:28:49] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tile.uppers.upper`, expected `uppers`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:49] [Server thread/INFO] [Chisel]: Loading blocks...
+[19:28:49] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[19:28:50] [Server thread/INFO] [Chisel]: 71 Feature's blocks loaded.
+[19:28:50] [Server thread/INFO] [Chisel]: Loading Tile Entities...
+[19:28:50] [Server thread/INFO] [Chisel]: Tile Entities loaded.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `block_barrel`, expected `exnihilocreatio`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `block_infesting_leaves`, expected `exnihilocreatio`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `block_infested_leaves`, expected `exnihilocreatio`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `block_crucible`, expected `exnihilocreatio`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `block_crucible_wood`, expected `exnihilocreatio`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `block_sieve`, expected `exnihilocreatio`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `block_waterwheel`, expected `exnihilocreatio`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `block_axle_stone`, expected `exnihilocreatio`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `block_grinder`, expected `exnihilocreatio`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `block_auto_sifter`, expected `exnihilocreatio`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitygavestone`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `meecreeps_portalblock`, expected `meecreeps`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lteleporter`, expected `lteleporters`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentityhopperduct`, expected `hopperducts`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitygratedhopper`, expected `hopperducts`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [Server thread/INFO] [FML]: Applying holder lookups
+[19:28:50] [Server thread/INFO] [FML]: Holder lookups applied
+[19:28:50] [Server thread/INFO] [Chisel]: Loading items...
+[19:28:50] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[19:28:51] [Server thread/INFO] [Chisel]: 71 Feature's items loaded.
+[19:28:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentityircontroller`, expected `iskalliumreactors`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentityirpowertap`, expected `iskalliumreactors`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:51] [Server thread/INFO] [FML]: Applying holder lookups
+[19:28:51] [Server thread/INFO] [FML]: Holder lookups applied
+[19:28:51] [Server thread/INFO] [FML]: Applying holder lookups
+[19:28:51] [Server thread/INFO] [FML]: Holder lookups applied
+[19:28:51] [Server thread/INFO] [FML]: Applying holder lookups
+[19:28:51] [Server thread/INFO] [FML]: Holder lookups applied
+[19:28:51] [Server thread/INFO] [FML]: Injecting itemstacks
+[19:28:51] [Server thread/INFO] [FML]: Itemstack injection complete
+[19:28:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[19:28:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[19:28:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[19:28:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[19:28:51] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[19:28:51] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:28:51] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[19:28:51] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:28:51] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:28:51] [Server thread/ERROR] [FML]: Parsing error loading recipe exnihilocreatio:item_doll_blitz
+com.google.gson.JsonSyntaxException: Unknown item 'thermalfoundation:material'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:260) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:537) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:202) ~[CraftingHelper.class:?]
+	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:210) ~[ShapedOreRecipe.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:409) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:711) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:822) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:668) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(Unknown Source) [?:1.8.0_171]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:620) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:742) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:337) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_171]
+[19:28:51] [Server thread/ERROR] [FML]: Parsing error loading recipe exnihilocreatio:item_doll_basalz
+com.google.gson.JsonSyntaxException: Unknown item 'thermalfoundation:material'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:260) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:537) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:202) ~[CraftingHelper.class:?]
+	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:210) ~[ShapedOreRecipe.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:409) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:711) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:822) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:668) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(Unknown Source) [?:1.8.0_171]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:620) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:742) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:337) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_171]
+[19:28:52] [Server thread/INFO] [Chisel]: Loading recipes...
+[19:28:52] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[19:28:52] [Server thread/INFO] [Chisel]: 71 Feature's recipes loaded.
+[19:28:52] [Server thread/WARN] [Ex Nihilo Creatio]: Crucible entry for Oak Sapling with meta 0 already exists, skipping.
+[19:28:52] [Server thread/WARN] [Ex Nihilo Creatio]: Crucible entry for Spruce Sapling with meta 1 already exists, skipping.
+[19:28:52] [Server thread/WARN] [Ex Nihilo Creatio]: Crucible entry for Birch Sapling with meta 2 already exists, skipping.
+[19:28:52] [Server thread/WARN] [Ex Nihilo Creatio]: Crucible entry for Jungle Sapling with meta 3 already exists, skipping.
+[19:28:52] [Server thread/WARN] [Ex Nihilo Creatio]: Crucible entry for Acacia Sapling with meta 4 already exists, skipping.
+[19:28:52] [Server thread/WARN] [Ex Nihilo Creatio]: Crucible entry for Dark Oak Sapling with meta 5 already exists, skipping.
+[19:28:52] [Server thread/INFO] [FML]: Applying holder lookups
+[19:28:52] [Server thread/INFO] [FML]: Holder lookups applied
+[19:28:52] [Server thread/INFO] [bdlib]: Initialized network channel 'bdew.compacter' for mod 'compacter'
+[19:28:52] [Server thread/INFO] [engineersworkshop]: BLANK recipe loaded.
+[19:28:52] [Server thread/INFO] [engineersworkshop]: STORAGE recipe loaded.
+[19:28:52] [Server thread/INFO] [engineersworkshop]: AUTO_CRAFTER recipe loaded.
+[19:28:52] [Server thread/INFO] [engineersworkshop]: SPEED recipe loaded.
+[19:28:52] [Server thread/INFO] [engineersworkshop]: QUEUE recipe loaded.
+[19:28:52] [Server thread/INFO] [engineersworkshop]: AUTO_TRANSFER recipe loaded.
+[19:28:52] [Server thread/INFO] [engineersworkshop]: FILTER recipe loaded.
+[19:28:52] [Server thread/INFO] [engineersworkshop]: CHARGED recipe loaded.
+[19:28:52] [Server thread/INFO] [engineersworkshop]: TRANSFER recipe loaded.
+[19:28:52] [Server thread/INFO] [engineersworkshop]: AXE recipe loaded.
+[19:28:52] [Server thread/INFO] [FML]: [flatbedrockx] Creating overworld.json file
+[19:28:52] [Server thread/INFO] [FML]: [flatbedrockx] Creating nether.json file
+[19:28:52] [Server thread/INFO] [sonarcore]: Checking Loaded Mods
+[19:28:52] [Server thread/INFO] [sonarcore]: Registering Packets
+[19:28:52] [Server thread/INFO] [sonarcore]: Register Packets
+[19:28:52] [Server thread/WARN] [sonarcore]: 'WAILA' - unavailable or disabled in config
+[19:28:52] [Server thread/INFO] [sonarcore]: Registered Events
+[19:28:52] [Server thread/INFO] [sonarcore]: Loaded Planters: Vanilla Planter
+[19:28:52] [Server thread/INFO] [sonarcore]: Loaded Harvesters: Harvester
+[19:28:52] [Server thread/INFO] [sonarcore]: Loaded Fertilisers: Bonemeal
+[19:28:52] [Server thread/INFO] [fluxnetworks]: Loading Events
+[19:28:52] [Server thread/INFO] [fluxnetworks]: Loaded Events
+[19:28:52] [Server thread/INFO] [fluxnetworks]: Finished Initialization
+[19:28:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cubex2 iron furnace`, expected `morefurnaces`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cubex2 gold furnace`, expected `morefurnaces`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cubex2 diamond furnace`, expected `morefurnaces`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cubex2 obsidian furnace`, expected `morefurnaces`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cubex2 netherrack furnace`, expected `morefurnaces`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cubex2 copper furnace`, expected `morefurnaces`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cubex2 silver furnace`, expected `morefurnaces`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ma_seed_reprocessor`, expected `mysticalagriculture`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ma_inferium_furnace`, expected `mysticalagriculture`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ma_prudentium_furnace`, expected `mysticalagriculture`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ma_intermedium_furnace`, expected `mysticalagriculture`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ma_superium_furnace`, expected `mysticalagriculture`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ma_supremium_furnace`, expected `mysticalagriculture`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ma_ultimate_furnace`, expected `mysticalagriculture`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:53] [Server thread/INFO] [practicallogistics2]: Breaking into the pentagon
+[19:28:53] [Server thread/INFO] [practicallogistics2]: Registered Crafting Recipes
+[19:28:53] [Server thread/INFO] [practicallogistics2]: Registered OreDict
+[19:28:53] [Server thread/INFO] [practicallogistics2]: Registered Event Handlers
+[19:28:53] [Server thread/INFO] [FML]: Injecting itemstacks
+[19:28:53] [Server thread/INFO] [FML]: Itemstack injection complete
+[19:28:53] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:lapis_ore/0=>1*minecraft:lapis_ore/4=>minecraft:lapis_ore/0' to mapping
+[19:28:53] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:lit_redstone_ore/0=>1*minecraft:redstone_ore/0=>minecraft:lit_redstone_ore/0' to mapping
+[19:28:53] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:grass/0=>1*minecraft:grass/0=>minecraft:grass/0' to mapping
+[19:28:53] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:grass/0=>1*minecraft:dirt/0=>minecraft:dirt/0' to mapping
+[19:28:53] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:dirt/1=>1*minecraft:dirt/1=>minecraft:dirt/1' to mapping
+[19:28:53] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:dirt/1=>1*minecraft:dirt/0=>minecraft:dirt/0' to mapping
+[19:28:53] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:dirt/2=>1*minecraft:dirt/2=>minecraft:dirt/2' to mapping
+[19:28:53] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:dirt/2=>1*minecraft:dirt/0=>minecraft:dirt/0' to mapping
+[19:28:54] [Server thread/INFO] [sonarcore]: Adding Discharge Values
+[19:28:54] [Server thread/INFO] [sonarcore]: Added 4 Discharge Values
+[19:28:54] [Server thread/INFO] [sonarcore]: Discharge Values: 1xtile.blockCoal@0=4500
+[19:28:54] [Server thread/INFO] [sonarcore]: Discharge Values: 1xitem.redstone@0=1000
+[19:28:54] [Server thread/INFO] [sonarcore]: Discharge Values: 1xitem.coal@0=500
+[19:28:54] [Server thread/INFO] [sonarcore]: Discharge Values: 1xtile.blockRedstone@0=9000
+[19:28:54] [Server thread/INFO] [sonarcore]: Registered 1 Fluid Providers
+[19:28:54] [Server thread/INFO] [sonarcore]: Registered 1 Energy Handlers
+[19:28:54] [Server thread/INFO] [sonarcore]: Registered 1 Energy Container Providers
+[19:28:54] [Server thread/INFO] [sonarcore]: Registered 0 Machine Upgrades
+[19:28:54] [Server thread/INFO] [fluxnetworks]: BLACKLIST: actuallyadditions:block_phantom_energyface successfully black listed
+[19:28:54] [Server thread/INFO] [mcjty.lib.varia.Logging]: Failed to load wrench class buildcraft.api.tools.IToolWrench (this is not an error)
+[19:28:54] [Server thread/INFO] [mcjty.lib.varia.Logging]: Failed to load wrench class resonant.core.content.ItemScrewdriver (this is not an error)
+[19:28:54] [Server thread/INFO] [mcjty.lib.varia.Logging]: Failed to load wrench class ic2.core.item.tool.ItemToolWrench (this is not an error)
+[19:28:54] [Server thread/INFO] [mcjty.lib.varia.Logging]: Failed to load wrench class ic2.core.item.tool.ItemToolWrenchElectric (this is not an error)
+[19:28:54] [Server thread/INFO] [mcjty.lib.varia.Logging]: Failed to load wrench class mrtjp.projectred.api.IScrewdriver (this is not an error)
+[19:28:54] [Server thread/INFO] [mcjty.lib.varia.Logging]: Failed to load wrench class mods.railcraft.api.core.items.IToolCrowbar (this is not an error)
+[19:28:54] [Server thread/INFO] [mcjty.lib.varia.Logging]: Failed to load wrench class com.bluepowermod.items.ItemScrewdriver (this is not an error)
+[19:28:54] [Server thread/INFO] [mcjty.lib.varia.Logging]: Failed to load wrench class cofh.api.item.IToolHammer (this is not an error)
+[19:28:54] [Server thread/INFO] [mcjty.lib.varia.Logging]: Failed to load wrench class thermalexpansion.item.tool.ItemWrench (this is not an error)
+[19:28:54] [Server thread/INFO] [mcjty.lib.varia.Logging]: Failed to load wrench class appeng.items.tools.quartz.ToolQuartzWrench (this is not an error)
+[19:28:54] [Server thread/INFO] [mcjty.lib.varia.Logging]: Failed to load wrench class crazypants.enderio.api.tool.ITool (this is not an error)
+[19:28:54] [Server thread/INFO] [mcjty.lib.varia.Logging]: Failed to load wrench class mekanism.api.IMekWrench (this is not an error)
+[19:28:54] [Server thread/INFO] [mcjty.lib.varia.Logging]: Failed to load wrench class mcjty.rftools.items.smartwrench (this is not an error)
+[19:28:54] [Server thread/INFO] [mcjty.lib.varia.Logging]: Failed to load wrench class pneumaticCraft.common.item.ItemPneumaticWrench (this is not an error)
+[19:28:54] [Server thread/INFO] [mcjty.lib.varia.Logging]: Failed to load wrench class powercrystals.minefactoryreloaded.api.IToolHammer (this is not an error)
+[19:28:54] [Server thread/INFO] [practicallogistics2]: Please Wait: We are saving Harambe with a time machine
+[19:28:54] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 40 mods
+[19:28:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[19:28:54] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@513a9191)
+[19:28:54] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table meecreeps:entities/meecreeps
+[19:28:54] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[19:28:55] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@513a9191)
+[19:28:55] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@513a9191)
+[19:28:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[19:28:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 6%
+[19:28:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 13%
+[19:28:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 23%
+[19:28:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 32%
+[19:29:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 41%
+[19:29:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 51%
+[19:29:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 62%
+[19:29:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 73%
+[19:29:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 84%
+[19:29:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 95%
+[19:29:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (11,901s)! For help, type "help" or "?"
+[19:29:06] [Server thread/INFO] [journeymap]: global (FirstLoaded) Setting config file to version "5.5.2": journeymap.server.global.config
+[19:29:06] [Server thread/INFO] [journeymap]: global (Valid) Creating config file: .\journeymap\server\5.5\journeymap.server.global.config
+[19:29:06] [Server thread/INFO] [journeymap]: dim0 (Initialized) Setting config file to version "5.5.2": journeymap.server.dim0.config
+[19:29:06] [Server thread/INFO] [journeymap]: dim0 (Valid) Creating config file: .\journeymap\server\5.5\journeymap.server.dim0.config
+[19:29:06] [Server thread/INFO] [journeymap]: dim-1 (Initialized) Setting config file to version "5.5.2": journeymap.server.dim-1.config
+[19:29:06] [Server thread/INFO] [journeymap]: dim-1 (Valid) Creating config file: .\journeymap\server\5.5\journeymap.server.dim-1.config
+[19:29:06] [Server thread/INFO] [journeymap]: dim1 (Initialized) Setting config file to version "5.5.2": journeymap.server.dim1.config
+[19:29:06] [Server thread/INFO] [journeymap]: dim1 (Valid) Creating config file: .\journeymap\server\5.5\journeymap.server.dim1.config
+[19:29:06] [Server thread/INFO] [mcjty.lib.varia.Logging]: Preparing all world data
+[19:29:06] [Server thread/INFO] [FML]: Unloading dimension -1
+[19:29:06] [Server thread/INFO] [FML]: Unloading dimension 1
+[19:29:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[19:29:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[19:29:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[19:29:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[19:29:10] [Server thread/INFO] [FML]: Unloading dimension 0
+[19:29:10] [Server thread/INFO] [fluxnetworks]: Cleared Network Caches
+[19:29:10] [Server thread/INFO] [mcjty.lib.varia.Logging]: Cleaning up all world data: 1 data blobs
+[19:29:10] [Server thread/INFO] [practicallogistics2]: Cleared Server Info Handler
+[19:29:10] [Server thread/INFO] [practicallogistics2]: Cleared Network Handler
+[19:29:10] [Server thread/INFO] [practicallogistics2]: Cleared Data Factory
+[19:29:10] [Server thread/INFO] [practicallogistics2]: Cleared Wireless Data Manager
+[19:29:10] [Server thread/INFO] [practicallogistics2]: Cleared Wireless Redstone Manager
+[19:29:10] [Server thread/INFO] [practicallogistics2]: Cleared Cable Connection Handler
+[19:29:10] [Server thread/INFO] [practicallogistics2]: Cleared Redstone Connection Handler
+[19:29:10] [Server thread/INFO] [practicallogistics2]: Cleared Server Display Handler
+[19:29:10] [Server thread/INFO] [practicallogistics2]: Cleared Chunk Viewer Handler
+[19:29:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[19:29:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[19:29:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
